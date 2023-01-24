@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "Mutsuha Asada"
-description   = "A new awesome nimble package"
+description   = "Client library for Pixela"
 license       = "Apache-2.0"
 srcDir        = "src"
 
